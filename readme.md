@@ -21,7 +21,7 @@ npm install
 - Put video you would like to censor in the `/video` folder
 - In app.js replace videoName with the name of your video
 - Run `npm run clean` to start the app
-Note: First time usage will download the whisper model, may take a minute
+- Note: First time usage will download the whisper model, may take a minute
 ## Performance
 
 - A 10 minute video in under 5 minutes.
