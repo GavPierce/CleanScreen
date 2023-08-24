@@ -18,10 +18,10 @@ This is just a plane Node app currently. I plan to make it a CLI tool in the fut
 npm install
 ```
 
-1- Put video you would like to censor in the `/video` folder
-2- In app.js replace videoName with the name of your video
-3- Run `npm run clean` to start the app
-
+- Put video you would like to censor in the `/video` folder
+- In app.js replace videoName with the name of your video
+- Run `npm run clean` to start the app
+Note: First time usage will download the whisper model, may take a minute
 ## Performance
 
 - A 10 minute video in under 5 minutes.
