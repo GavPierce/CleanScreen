@@ -1,0 +1,14 @@
+{
+  "name": "Clean-Screen",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "clean": "node app.js"
+  },
+  "dependencies": {
+    "@xenova/transformers": "^2.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "wavefile": "^11.0.0"
+  }
+}
