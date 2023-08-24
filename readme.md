@@ -15,6 +15,8 @@ This is just a plane Node app currently. I plan to make it a CLI tool in the fut
 ## Usage
 
 ```
+git clone git@github.com:GavPierce/CleanScreen.git
+cd CleanScreen
 npm install
 ```
 
